@@ -1,6 +1,11 @@
-# Coming-soon-page
-Pure coming soon page
+# Coming-soon-page (*Site under construction page*)
+ 
 
-This is a simple "Coming-soon" page using BootStrap.
+Submitted by: **Guanlong(Mark) Zhou**
 
-See it here : http://mookerz.github.io/Coming-soon-page/
+
+This is a simple **Coming-soon** page which uses BootStrap.
+
+See demo here:
+
+[https://markgzhou.github.io/Coming-soon-page](https://markgzhou.github.io/Coming-soon-page)
